@@ -1,0 +1,2 @@
+# Konekoneko
+practice web development
